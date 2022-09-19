@@ -34,7 +34,6 @@ The result will be as follows,
 
 Thirdly, go and run the mavproxy where it will act as a handler connection between the multiple ros service files and nodes and the main simulated drone, the drone works on main port 14550 where the other ports are for ros services and nodes, you can select other ports as you like, but you have to handle the edit ports in the ros script files, please don't change the ports if you still doesnt familair with ports and ip or didn't understand what i am saying !.
 
-![](/images/image-08.PNG)
 
 
 Fourthly, run the Dronekit-ROS package through typing on terminal "roslaunch ross Dronekit_ROS_Package.launch", the output it will be as follows, 
@@ -54,12 +53,21 @@ Sixthly, You can type the service in the form in terminal for example takeoff la
 ![](/images/image-14.PNG)
 
 ![](/images/image-15.PNG)
-
+                            
+                              RESULT
+                            
 The result will be as follows as example of Pose_service, note that the Pose_service can move your drone at any point in the 3D, X,Y and Z axies, just rembembr up -number down +number  
 
 ![](/images/image-16.PNG)
+![](/images/image-30.PNG)
+![](/images/image-31.PNG)
+![](/images/image-32.PNG)
+![](/images/image-33.PNG)
+![](/images/image-34.PNG)
 
-                               Is package work on a real drone or only with SITL 
+
+
+                               Is package work on a real drone or only with SITL? 
                                
 The package works on the real drone and had been tested. You can use compainon computer and linked with the PX4 and get access to control the drone via linked your compainon computer with internet through wifi or you can control the drone directly from your computer through plugin your telemtry with your computer (this way, i tested too, it works but sometime yes and some time no). anyway for anycase just change the mavproxy command the line where the SITL AS IN THE THIRD steps change only "127.0.0.1:14550" to the real USB port where the compainon computer will be connected for example in case of telemtry you can follow the next,
 
