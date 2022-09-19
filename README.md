@@ -58,6 +58,13 @@ Sixthly, You can type the service in the form in terminal for example takeoff la
 The result will be as follows as example of Pose_service, note that the Pose_service can move your drone at any point in the 3D, X,Y and Z axies, just rembembr up -number down +number  
 
 ![](/images/image-16.PNG)
+![](/images/image-30.PNG)
+![](/images/image-31.PNG)
+![](/images/image-32.PNG)
+![](/images/image-33.PNG)
+![](/images/image-34.PNG)
+
+
 
                                Is package work on a real drone or only with SITL 
                                
