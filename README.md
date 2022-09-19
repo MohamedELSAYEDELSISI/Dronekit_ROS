@@ -1,6 +1,9 @@
 # Dronekit_ROS
 This repo contains a software package Dronekit-ROS. In this repo, you can control your Px4 drone using ROS service commands but in the form Dronekit with ROS. The package contains a publisher node which streams the basic data of the drone for example, battery level, the postion on the three axes, the Altiude and the velocity. The software package is a form of MAVProxy control commands, but with Dronekit and ROS. 
 
+                                    Software Layers
+![](/image-01.PNG)                                   
+
                                 Simulation the Software ROS package on Software System in the Loop
                                                 
 Before running the software on a real drone vehicle, it's important to test the software code on a simulation tool.
