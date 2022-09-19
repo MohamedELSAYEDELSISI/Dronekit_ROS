@@ -55,7 +55,7 @@ Sixthly, You can type the service in the form in terminal for example takeoff la
 ![](/images/image-15.PNG)
                             
                               RESULT
-![](ezgif.com-gif-maker.gif)                         
+![](/ezgif.com-gif-maker.gif)                         
 The result will be as follows as example of Pose_service, note that the Pose_service can move your drone at any point in the 3D, X,Y and Z axies, just rembembr up -number down +number  
 
 ![](/images/image-16.PNG)
