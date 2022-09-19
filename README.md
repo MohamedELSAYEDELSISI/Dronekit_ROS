@@ -3,7 +3,7 @@ This repo contains a software package Dronekit-ROS. In this repo, you can contro
 
                                Software Layers
                                
-![](/image-01.PNG)                                 
+![](/images/image-01.PNG)                                 
 
                                Software prerequisites
                                
