@@ -1,0 +1,8 @@
+prefix=/home/drone/m/install
+
+Name: ross
+Description: Description of ross
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

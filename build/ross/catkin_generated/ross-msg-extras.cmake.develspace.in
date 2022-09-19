@@ -1,0 +1,2 @@
+set(ross_MESSAGE_FILES "/home/drone/m/src/ross/msg/vehicle_status.msg")
+set(ross_SERVICE_FILES "/home/drone/m/src/ross/srv/pose_service.srv;/home/drone/m/src/ross/srv/confg_mode.srv;/home/drone/m/src/ross/srv/land.srv;/home/drone/m/src/ross/srv/takeoff.srv;/home/drone/m/src/ross/srv/RTL.srv")

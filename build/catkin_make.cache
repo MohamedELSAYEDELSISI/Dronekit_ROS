@@ -1,0 +1,2 @@
+dronekit_ros
+-DCATKIN_DEVEL_PREFIX=/home/drone/m/devel -DCMAKE_INSTALL_PREFIX=/home/drone/m/install -G Unix Makefiles

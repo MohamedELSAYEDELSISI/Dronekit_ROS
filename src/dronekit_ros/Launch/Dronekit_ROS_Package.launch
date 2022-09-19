@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="ross" type="Takeoff_Node.py" name="Takeoff_Node"/> 
+  <node pkg="ross" type="Nav_Control_Position_Node.py" name="Nav_Control_Position_Node"/> 
+  <node pkg="ross" type="Land_Node.py"  name="Land_Node"/> 
+  <node pkg="ross" type="Data_Stream_Publisher_Node.py"  name="Data_Stream_Publisher_Node" output="screen" />
+
+</launch>
